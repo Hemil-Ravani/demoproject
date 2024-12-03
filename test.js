@@ -1,3 +1,3 @@
 const Hemil = "Hemil"
 
-console.log(Hemil)
+console.log(Hemil);
